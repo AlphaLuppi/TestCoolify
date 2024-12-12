@@ -25,10 +25,10 @@
 	</button>
 
 	<div class="counter-viewport">
+		<h1>Test de deploy</h1>
 		<div class="counter-digits" style="transform: translate(0, {100 * offset}%)">
 			<strong class="hidden" aria-hidden="true">{Math.floor($displayedCount + 1)}</strong>
 			<strong>{Math.floor($displayedCount)}</strong>
-			<strong>Test d'autodeploy</strong>
 		</div>
 	</div>
 
