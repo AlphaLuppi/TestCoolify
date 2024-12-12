@@ -28,6 +28,7 @@
 		<div class="counter-digits" style="transform: translate(0, {100 * offset}%)">
 			<strong class="hidden" aria-hidden="true">{Math.floor($displayedCount + 1)}</strong>
 			<strong>{Math.floor($displayedCount)}</strong>
+			<strong>Test d'auto</strong>
 		</div>
 	</div>
 
